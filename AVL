@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Implementação inicial da árvore AVL"
+git branch -M main
+git remote add origin https://github.com/jpmfho22/Trabalho-Arvore-AVL.git
+git push -u origin main
