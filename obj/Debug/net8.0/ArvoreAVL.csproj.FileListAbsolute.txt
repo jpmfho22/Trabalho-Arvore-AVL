@@ -1,0 +1,14 @@
+C:\Users\Notebook Camargo\Desktop\ArvoreAVL\bin\Debug\net8.0\ArvoreAVL.exe
+C:\Users\Notebook Camargo\Desktop\ArvoreAVL\bin\Debug\net8.0\ArvoreAVL.deps.json
+C:\Users\Notebook Camargo\Desktop\ArvoreAVL\bin\Debug\net8.0\ArvoreAVL.runtimeconfig.json
+C:\Users\Notebook Camargo\Desktop\ArvoreAVL\bin\Debug\net8.0\ArvoreAVL.dll
+C:\Users\Notebook Camargo\Desktop\ArvoreAVL\bin\Debug\net8.0\ArvoreAVL.pdb
+C:\Users\Notebook Camargo\Desktop\ArvoreAVL\obj\Debug\net8.0\ArvoreAVL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Notebook Camargo\Desktop\ArvoreAVL\obj\Debug\net8.0\ArvoreAVL.AssemblyInfoInputs.cache
+C:\Users\Notebook Camargo\Desktop\ArvoreAVL\obj\Debug\net8.0\ArvoreAVL.AssemblyInfo.cs
+C:\Users\Notebook Camargo\Desktop\ArvoreAVL\obj\Debug\net8.0\ArvoreAVL.csproj.CoreCompileInputs.cache
+C:\Users\Notebook Camargo\Desktop\ArvoreAVL\obj\Debug\net8.0\ArvoreAVL.dll
+C:\Users\Notebook Camargo\Desktop\ArvoreAVL\obj\Debug\net8.0\refint\ArvoreAVL.dll
+C:\Users\Notebook Camargo\Desktop\ArvoreAVL\obj\Debug\net8.0\ArvoreAVL.pdb
+C:\Users\Notebook Camargo\Desktop\ArvoreAVL\obj\Debug\net8.0\ArvoreAVL.genruntimeconfig.cache
+C:\Users\Notebook Camargo\Desktop\ArvoreAVL\obj\Debug\net8.0\ref\ArvoreAVL.dll
