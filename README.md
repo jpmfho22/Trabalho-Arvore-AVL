@@ -1,6 +1,6 @@
 # Trabalho - Árvore AVL em C#
 
-Este projeto foi desenvolvido como parte da disciplina **Análises e Projetos Orientados a Objetos I**, no curso de **Engenharia da Computação**.
+Este projeto foi desenvolvido por João Pedro Magrin, Bruno Barroso dos Santos e Alexssandro Matias de Jesus como parte da disciplina **Análises e Projetos Orientados a Objetos I**, no curso de **Engenharia da Computação**.
 
 ## 🎯 Objetivo
 
